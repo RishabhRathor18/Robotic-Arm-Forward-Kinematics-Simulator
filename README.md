@@ -74,4 +74,4 @@ http://localhost:8501
 
 ## Project Demo
 
-![Simulator Screenshot](images/simulator_screenshot.png)
+![Simulator Screenshot](images/simulator_screenshot.png.png)
